@@ -5,14 +5,12 @@ import android.os.Bundle;
 
 public class SignupActivity extends AppCompatActivity {
 
+    //github training
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signup);
     }
 
-    @Override
-    public void onBackPressed() {
-        //on back pressed method here
-    }
 }
