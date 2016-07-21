@@ -10,4 +10,9 @@ public class SignupActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signup);
     }
+
+    @Override
+    public void onBackPressed() {
+        //on back pressed method here
+    }
 }
