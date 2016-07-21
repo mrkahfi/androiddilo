@@ -5,6 +5,8 @@ import android.os.Bundle;
 
 import co.yanmi.resto.R;
 
+//edited hernowo
+
 public class CalculatorActivity extends AppCompatActivity {
 
     @Override
