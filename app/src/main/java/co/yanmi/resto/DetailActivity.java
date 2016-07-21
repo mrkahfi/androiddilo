@@ -19,5 +19,6 @@ public class DetailActivity extends AppCompatActivity {
 
     public void setName(String name) {
         this.name = name;
+        //abcdefghijkl
     }
 }
