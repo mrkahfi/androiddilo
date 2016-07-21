@@ -14,7 +14,8 @@ public class DetailAnggotaActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         startActivity(new Intent(this, LoginActivity.class));
-        Toast.makeText(this, "ini pesan", Toast.LENGTH_LONG).show();
+        // Pesan toast di rubah firhat
+        Toast.makeText(this, "Pesan ini di rubah", Toast.LENGTH_LONG).show();
     }
 
     public void setName(String name) {
