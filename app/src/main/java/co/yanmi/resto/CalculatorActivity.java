@@ -6,6 +6,7 @@ import android.os.Bundle;
 import co.yanmi.resto.R;
 
 //edited hernowo
+//edited
 
 public class CalculatorActivity extends AppCompatActivity {
 
