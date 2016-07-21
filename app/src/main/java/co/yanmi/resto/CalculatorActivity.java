@@ -16,3 +16,10 @@ public class CalculatorActivity extends AppCompatActivity {
         setContentView(R.layout.activity_calculator);
     }
 }
+
+int a = 15
+
+public class HelloWorld{
+
+}
+
